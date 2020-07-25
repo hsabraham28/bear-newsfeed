@@ -1,0 +1,89 @@
+header {
+	
+	font-size: 20px;
+	padding-bottom: 40px;
+	
+
+	.navbar {
+  
+}
+
+	.navbar-brand
+ {
+	color: #003262;
+	font-weight:bolder;
+	font-size: 30px;
+	position: relative;
+	right: -1vmin;
+
+	a:hover {
+    color: #003262;
+}
+	}
+
+	.nav-link {
+	border-top: 2px solid #003262;
+	color: #003262;
+	position: relative;
+	margin-right: 20px;
+	left: 80vmin;
+
+
+	}
+	li {
+	a:hover {
+    font-weight:bold;
+    color: #003262;
+}
+	}
+
+
+
+}
+
+.postArea {
+
+	h1 {
+	color: #003262;
+	font-size: 30px;
+	position: relative;
+	left: 5vmin;
+	
+	}
+
+	
+
+	
+
+	.result-section {
+	position: relative;
+	left: 20vmin;
+	top: 1vmin;
+
+	.rowOne {
+	padding-bottom: 15px;
+	}
+	.carded {
+	padding-right: 70px;
+	}
+
+	.card-img-bottom {
+	opacity: 0.6;
+	}
+	
+
+}
+}
+
+
+.searchSpace {
+	position: relative;
+	left: 120vmin;
+	.btn-light {
+	
+	background-color: #003262;
+	color: white;
+	}
+}
+
+
